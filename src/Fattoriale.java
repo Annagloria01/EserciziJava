@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class App {
+public class Fattoriale {
 
     public static void main(String[] args) {
         //fattoriale
