@@ -14,5 +14,9 @@ public class Tabellina {
             System.out.println("Ecco il tuo prodotto:" + (numero * i));
             
         }
+
+        scanner.close();
     }
+
+    
 }

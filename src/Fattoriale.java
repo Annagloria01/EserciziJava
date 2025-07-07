@@ -24,5 +24,6 @@ public class Fattoriale {
 
         System.out.println(result + " = " + fattoriale);
 
+        scanner.close();
     }
 }
